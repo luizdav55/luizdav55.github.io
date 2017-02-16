@@ -1,0 +1,35 @@
+
+        .body-initial {
+            background-color: rgba(255,255,255,1); 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.body-initial {
+            background-color: rgba(178,255,191,1); 
+            background-image: url('../assets/web-designer-pune-background.jpg'); 
+        }
+        }.silex-id-1487203803309-2 {
+            min-height: 100px; 
+            width: 100px; 
+            top: 100px; 
+            left: 490px; 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1487203803309-2 {
+            top: 60px; 
+            left: 181px; 
+            width: 100px; 
+            min-height: 30px; 
+        }
+        }.silex-id-1487204012392-3 {
+            min-height: 100px; 
+            width: 100px; 
+            top: 100px; 
+            left: 490px; 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1487204012392-3 {
+            width: 439px; 
+            min-height: 197px; 
+            top: 90px; 
+            left: 12px; 
+            background-color: transparent; 
+        }
+        }
+    
